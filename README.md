@@ -29,5 +29,5 @@ intended to be used without spaces
 in the phrase "optumum et uerissumum" you would
 write "optumum&uerissumum". 
 
-Othet Tironian characters can be used with
+Other Tironian characters can be used with
 regular spaces. 
